@@ -123,3 +123,7 @@ if __name__ == "__main__":
     print(f"Decrypted text 1: {decrypted_text_1}")
     print(f"Decrypted text 2: {decrypted_text_2}")
     print(f"Decrypted text 3: {decrypted_text_3}")
+
+
+    ![Screenshot 2024-10-16 144434](https://github.com/user-attachments/assets/e34414ed-b165-4a5b-b4f5-bebd4d5d4b18)
+
